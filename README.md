@@ -20,22 +20,7 @@ href="https://github.com/piaantiquera/piaantiquera/blob/57278325145a5568cccfe88a
 alt="es" src="https://img.shields.io/badge/lang-es-green.svg"></a>   
 </div>
 
-<samp>
-I'm a MSc. Data Science candidate student at the Universidad de Chile. 
-Currently, working as a research assistant at the Complex Engineering 
-Systems Institute and the Web Intelligence Centre. Additionally, I'm a 
-teaching assistant for courses related to data science at the Department 
-of Industrial Engineering, Universidad de Chile.<br>
-</samp>
 
-<br>
-
-<samp>           
-My areas of interest in data science include artificial intelligence, with 
-a special focus on <strong>natural language processing</strong>, 
-<strong>computer vision</strong>, and </strong>machine learning</strong>.
-    
-</samp>
     
 ------------
 
